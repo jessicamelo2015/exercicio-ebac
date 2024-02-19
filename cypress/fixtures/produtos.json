@@ -1,0 +1,31 @@
+[
+    {
+        "nomeProduto":"Ingrid Running Jacket",
+        "tamanho":"XS",
+        "cor":"Orange",
+        "quantidade":1
+
+    },
+    {
+        "nomeProduto":"Arcadio Gym Short",
+        "tamanho":34,
+        "cor":"Black",
+        "quantidade":1
+
+    },
+    {
+        "nomeProduto":"Erica Evercool Sports Bra",
+        "tamanho":"L",
+        "cor":"Yellow",
+        "quantidade":1
+
+    },
+    {
+        "nomeProduto":"Ariel Roll Sleeve Sweatshirt",
+        "tamanho":"L",
+        "cor":"Green",
+        "quantidade":1
+
+    }
+
+]
