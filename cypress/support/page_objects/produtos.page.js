@@ -32,7 +32,8 @@ finalizarCompra(){
         cy.get('#terms').click()
         cy.get('#place_order').click()
 
-        cy.get('.woocommerce-notice').should('contain','Obrigado. Seu pedido foi recebido.')
+        
+        cy.get('.woocommerce-notice--success').should('contain','Obrigado. Seu pedido foi recebido.')
     }
 
 }
